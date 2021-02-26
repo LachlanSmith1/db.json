@@ -1,0 +1,146 @@
+[
+{
+    "type": "header",
+    "version": "4.9.7",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "NessPlantDatabase"
+},
+{
+    "type": "table",
+    "name": "garden_sections",
+    "database": "NessPlantDatabase",
+    "data": 
+[
+{
+    "ID": "1",
+    "Name": "Pine Woods",
+    "Description": "The pinewood has a number of paths to investigate and is also home to many fine examples of rhododendrons.",
+    "Latitude": "53.27417",
+    "Longitude": "-3.04405",
+    "Image_Name1": "pinewoodsarea1.jpg",
+    "Image_Name2": "pinewoodsarea2.jpg",
+    "Image_Name3": "pinewoodsarea3.jpg",
+    "Image_Name4": "",
+    "Image_Name5": "",
+    "Active": "1",
+    "Last_Update": "2014-08-11 14:00:49"
+},
+{
+    "ID": "2",
+    "Name": "Old House Area",
+    "Description": "Mickwell Brow was built in 1898 as the first phase of Arthur Bulley's vision for what is now Ness botanic Gardens.\rThe images show both old and new views of the house.",
+    "Latitude": "53.272057",
+    "Longitude": "-3.043731",
+    "Image_Name1": "oldhousearea1.jpg",
+    "Image_Name2": "oldhousearea2.jpg",
+    "Image_Name3": "oldhousearea3.jpg",
+    "Image_Name4": "",
+    "Image_Name5": "",
+    "Active": "1",
+    "Last_Update": "2014-08-12 14:24:25"
+},
+{
+    "ID": "3",
+    "Name": "Water Garden",
+    "Description": "This area was originally created for use as a research project in the 1960's before being planted with a stunning range of trees which all have fabulous autumn colour and beautiful winter barks.",
+    "Latitude": "53.270263",
+    "Longitude": "-3.043095",
+    "Image_Name1": "watergardensarea1.jpg",
+    "Image_Name2": "watergardensarea2.jpg",
+    "Image_Name3": "watergardensarea3.jpg",
+    "Image_Name4": "watergardensarea4.jpg",
+    "Image_Name5": "watergardensarea5.jpg",
+    "Active": "1",
+    "Last_Update": "2014-08-11 13:36:46"
+},
+{
+    "ID": "4",
+    "Name": "Rock Garden",
+    "Description": "One of the original features of Ness, the Rock Garden was orginally created by A.K Bulley on the site of an old clay marl pit, to house his ever increasing collection of alpines. ",
+    "Latitude": "53.271159",
+    "Longitude": "-3.042296",
+    "Image_Name1": "rockgardenarea1.jpg",
+    "Image_Name2": "rockgardenarea2.jpg",
+    "Image_Name3": "rockgardenarea3.jpg",
+    "Image_Name4": "rockgardenarea4.jpg",
+    "Image_Name5": "",
+    "Active": "1",
+    "Last_Update": "2014-08-11 13:36:33"
+},
+{
+    "ID": "5",
+    "Name": "Azalea Walk",
+    "Description": "So called for its colour displays of Azaleas in the Spring, the area also has stunning snowdrop displays in February. Fabulous birches and rowans, part of the botanical collections surround the children's play area.",
+    "Latitude": "53.272233",
+    "Longitude": "-3.046131",
+    "Image_Name1": "azaleawalkarea1.jpg",
+    "Image_Name2": "",
+    "Image_Name3": "",
+    "Image_Name4": "",
+    "Image_Name5": "",
+    "Active": "1",
+    "Last_Update": "2014-08-11 13:36:21"
+},
+{
+    "ID": "6",
+    "Name": "Terraces",
+    "Description": "The sun baked terraces allows us to grow slightly tender plants outdoors all year round and provides fantastic views of the surrounding Gardens.",
+    "Latitude": "53.27154",
+    "Longitude": "-3.042687",
+    "Image_Name1": "terracearea1.jpg",
+    "Image_Name2": "terracearea2.jpg",
+    "Image_Name3": "terracearea3.jpg",
+    "Image_Name4": "terracearea4.jpg",
+    "Image_Name5": "terracearea5.jpg",
+    "Active": "1",
+    "Last_Update": "2014-08-11 13:38:51"
+},
+{
+    "ID": "7",
+    "Name": "Potager Area",
+    "Description": "The Potager is a scenic vegetable\/food growing area.  Food grown here is used for the Tea Rooms, sold at harvest time to the public (by way of a donations box) and the pumpkins are used for carving\/cooking for Halloween.",
+    "Latitude": "53.273368",
+    "Longitude": "-3.044382",
+    "Image_Name1": "potagerarea1.jpg",
+    "Image_Name2": "potagerarea2.jpg",
+    "Image_Name3": "potagerarea3.jpg",
+    "Image_Name4": "",
+    "Image_Name5": "",
+    "Active": "1",
+    "Last_Update": "2012-09-04 15:41:21"
+},
+{
+    "ID": "8",
+    "Name": "Herbaceous Area",
+    "Description": "Another original area of Ness although the layout has changed over the years. It now houses 120 metres of herbaceous borders which look beautiful from May to February.",
+    "Latitude": "53.272797",
+    "Longitude": "-3.044747",
+    "Image_Name1": "herbaceous1.jpg",
+    "Image_Name2": "",
+    "Image_Name3": "",
+    "Image_Name4": "",
+    "Image_Name5": "",
+    "Active": "1",
+    "Last_Update": "2014-08-11 13:35:58"
+},
+{
+    "ID": "9",
+    "Name": "Ness Botanische",
+    "Description": "Designed in 2009 by Chris Beardshaw and exhibited at RHS Tatton Show where it won Gold and Best in Show.  It celebrates the botanical research at Ness and the pleasure afforded to our visitors.",
+    "Latitude": "53.273015",
+    "Longitude": "-3.043567",
+    "Image_Name1": "botanischearea1.jpg",
+    "Image_Name2": "botanischearea2.jpg",
+    "Image_Name3": "botanischearea3.jpg",
+    "Image_Name4": "botanischearea4.jpg",
+    "Image_Name5": "botanischearea5.jpg",
+    "Active": "1",
+    "Last_Update": "2014-08-11 13:35:36"
+}
+]
+
+}
+]
